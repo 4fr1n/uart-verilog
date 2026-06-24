@@ -428,32 +428,32 @@ All tests complete.
 
 
 
-```
-![Terminal Output](images/terminal.png)
-```
 
----
+![Terminal Output](images/terminal.png)
+
+
+
 
 ### GTKWave / EPWave — Full Transmission
 
 
 
-```
+
 ![Full Transmission Waveform](images/waves2.png)
-```
-
----
 
 
----
+
+
+
+
 
 ### GTKWave / EPWave — Data Bits
 
 
 
-```
+
 ![Data Bits](images/waves1.png)
-```
+
 
 ---
 
